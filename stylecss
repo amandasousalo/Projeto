@@ -1,0 +1,5 @@
+body{
+    margim: 0%
+    justify-content: center;
+    
+}
